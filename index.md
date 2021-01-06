@@ -1,43 +1,31 @@
 # Daniil Magaril's Github Page
 
-## This is a heading - 2
-### This is an even smaller heading
+![](ProfPic.JPG)
 
-There is a possibility to create **bold text** and *italicized text* and even ~~struck through~~.
+## Early childhood and Personal Life
 
-Sometimes, people say things
-> And so we quote them on their words
+I was born in **St. Petersburg, Russia** ~~in August of 2000~~, where I lived for the first 7 years of my life. In *2007* I moved to the San Diego, where I have lived ever since.
+I have picked up numerous sports throughout my life, including:
 
-Other times, programmers program things,
+- Fencing
+- Karate
+- Soccer
 
-```
-so we also quote their words;
-and their mistakes;
-mostly their mistakes;
-```
+I have been tinkering with software since middle school, where I started out with Lego Mindstorms and have progressed to Arduinos and Raspberry Pi's. I consider my life motto to be
+> What I do today sets me up for what I *can* do tomorrow
 
-[Here is a link to the README from Part 2](./README.md)
+## Education
 
-Here's a list 
+I currently attend UC San Diego, where I am working towards a Bachelor of Science in `Computer Science` with a minor in Cognitive Science :brain:
 
-0. One fish
-1. Two fish
-   1. When you're in CS so you use zero based indexing by the math profs want one based indexing
+## Work experience and Future Plans
 
-And another list!
-- Red Fish
-- Blue fish
-  - Why are there so many types of fish out there???
+I have been employed at my [fencing studio](www.teamtouche.com) as a \*Head Junior Coach\* and currently work as an Administrator for a Salesforce Consulting Partner.
 
-~~(God I miss Geisel library @Dr. Seuss)~~
-
-Some more things to do:
-- [ ] Add some real content
-- [ ] Add a meme
-- [X] \*ADD IGNORING MARKDOWN THINGIES\*
-- [X] Add emojis :bangbang:
-
-Here's a meme from [Google Images](https://images.google.com) 
+Throughout my career I hope to:
+- [X] Work on a self-set schedule
+- [ ] Work in a Fortune 500 Company
+- [ ] Work on a autonomous-driving project
 
 
-![](meme.png)
+To visit a meme I found funny, click [here](./meme.png)
