@@ -27,7 +27,7 @@ for i in range(5):
 
 ## Work experience and Future Plans
 
-I have been employed at my [fencing studio](https://www.teamtouche.com) as a \*Head Junior Coach\* and currently work as an Administrator for a Salesforce Consulting Partner.
+I have been employed at my [fencing studio](http://www.teamtouche.com) as a \*Head Junior Coach\* and currently work as an Administrator for a Salesforce Consulting Partner.
 
 Throughout my career I hope to:
 - [X] Work on a self-set schedule
@@ -36,3 +36,5 @@ Throughout my career I hope to:
 
 
 To visit a meme I found funny, click [here](./meme.png)
+
+To go back to the top of the page, click [here](#daniil-magarils-github-page)
