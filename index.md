@@ -1,7 +1,7 @@
 # Daniil Magaril's Github Page
 
-##This is a heading - 2
-###This is an even smaller heading
+## This is a heading - 2
+### This is an even smaller heading
 
 There is a possibility to create **bold text** and *italicized text* and even ~~struck through~~.
 
@@ -15,7 +15,7 @@ and their mistakes;
 mostly their mistakes;
 '''
 
-[Here is a link to the README from Part 2](docs/README.md)
+[Here is a link to the README from Part 2](./README.md)
 
 Here's a list
 0. One fish
@@ -35,5 +35,7 @@ Some more things to do:
 - [X] \*ADD IGNORING MARKDOWN THINGIES\*
 - [X] Add emojis :bangbang:
 
-Here's a meme from [Google Images](https://images.google.com)
+Here's a meme from [Google Images](https://images.google.com) 
+
+
 ![](meme.png)
