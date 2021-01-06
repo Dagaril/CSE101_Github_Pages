@@ -18,6 +18,7 @@ mostly their mistakes;
 [Here is a link to the README from Part 2](./README.md)
 
 Here's a list 
+
 0. One fish
 1. Two fish
    1. When you're in CS so you use zero based indexing by the math profs want one based indexing
