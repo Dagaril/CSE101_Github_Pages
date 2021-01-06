@@ -9,11 +9,12 @@ Sometimes, people say things
 > And so we quote them on their words
 
 Other times, programmers program things,
-'''
+
+```
 so we also quote their words;
 and their mistakes;
 mostly their mistakes;
-'''
+```
 
 [Here is a link to the README from Part 2](./README.md)
 
