@@ -17,10 +17,16 @@ I have been tinkering with software since middle school, where I started out wit
 ## Education
 
 I currently attend UC San Diego, where I am working towards a Bachelor of Science in `Computer Science` with a minor in Cognitive Science :brain:
+Since CS involves a lot of coding, I have chosen to include a for loop which does `nothing`:
+
+```
+for i in range(5):
+  nothing()
+  '''
 
 ## Work experience and Future Plans
 
-I have been employed at my [fencing studio](www.teamtouche.com) as a \*Head Junior Coach\* and currently work as an Administrator for a Salesforce Consulting Partner.
+I have been employed at my [fencing studio](https://www.teamtouche.com) as a \*Head Junior Coach\* and currently work as an Administrator for a Salesforce Consulting Partner.
 
 Throughout my career I hope to:
 - [X] Work on a self-set schedule
